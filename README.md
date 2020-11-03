@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/17472907/94009288-ebc54e00-fdac-11ea-967e-58f2cf615953.png" width="300px" alt="AdGuard VPN for Mac" />
+  <img src="https://user-images.githubusercontent.com/17472907/97984125-60959a00-1de7-11eb-87d4-a46a43380535.png" width="300px" alt="AdGuard VPN for Mac" />
 </p>
 
 <h3 align="center">Fast, flexible and reliable VPN solution for Mac</h3>
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<image src="https://user-images.githubusercontent.com/17472907/94008789-3c887700-fdac-11ea-8f89-34ec812a8010.png" width="600">
+<image src="https://user-images.githubusercontent.com/17472907/97984602-08ab6300-1de8-11eb-9ea4-549cce404062.png" width="600">
 </p>
 
 <a id="feedback"></a>
