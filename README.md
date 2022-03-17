@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<image src="https://user-images.githubusercontent.com/17472907/97985160-ea923280-1de8-11eb-9524-15ebdbd036ff.png" width="600">
+<image src="https://cdn.adguard.com/public/Adguard/Github/vpn_mac_readme.png" width="600">
 </p>
 
 <a id="feedback"></a>
@@ -29,7 +29,7 @@
 
 AdGuard VPN serves to protect your online privacy, encrypt your connection, hide your IP address and websites you visit from anyone (including your ISP). Cutting-edge technologies and multiple customization options will help conceal your location and ensure anonymous browsing on the web.
 
-To get more information and to download AdGuard VPN for Mac, visit our website [https://adguard-vpn.com/](https://adguard-vpn.com/).
+To get more information and to download AdGuard VPN for Mac, visit [our website](https://adguard-vpn.com/).
 
 ## Feedback options
 
