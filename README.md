@@ -25,7 +25,7 @@
 
 
 <p align="center">
-<image src="https://cdn.adguard.com/public/Adguard/Github/vpn_mac_readme.png" width="600">
+<image src="https://cdn.adguardvpn.com/content/release_notes/vpn/mac/v2.0/vpn_main_screen_en.png" width="600">
 </p>
 
 <a id="feedback"></a>
