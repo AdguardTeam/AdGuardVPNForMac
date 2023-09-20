@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/17472907/97984125-60959a00-1de7-11eb-87d4-a46a43380535.png" width="300px" alt="AdGuard VPN for Mac" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_dark_m.svg" width="300px" alt="AdGuard VPN for macOS" />
+<img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_m.svg?" width="300px" alt="AdGuard VPN for macOS" />
+</picture>
 </p>
 
 <h3 align="center">Fast, flexible and reliable VPN solution for Mac</h3>
@@ -25,7 +28,10 @@
 
 
 <p align="center">
-<image src="https://cdn.adguardvpn.com/content/release_notes/vpn/mac/v2.0/vpn_main_screen_en.png" width="600">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/release_notes/vpn/mac/v2.0/vpn_main_screen_dark_en.png" width = "600"px>
+  <img src="https://cdn.adtidy.org/content/release_notes/vpn/mac/v2.0/vpn_main_screen_light_en.png" width = "600"px>
+</picture>
 </p>
 
 <a id="feedback"></a>
