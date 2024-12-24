@@ -29,8 +29,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/release_notes/vpn/mac/v2.2/vpn_main_screen_dark_en.png" width = "600"px>
-  <img src="https://cdn.adtidy.org/content/release_notes/vpn/mac/v2.2/vpn_main_screen_light_en.png" width = "600"px>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/release_notes/vpn/mac/v2.5/vpn_main_screen_dark_en.png" width = "600"px>
+  <img src="https://cdn.adtidy.org/content/release_notes/vpn/mac/v2.5/vpn_main_screen_light_en.png" width = "600"px>
 </picture>
 </p>
 
