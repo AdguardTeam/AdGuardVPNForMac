@@ -30,7 +30,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/kb/vpn/mac/saved_locations.png" width = "600"px>
-  <img src="https://cdn.adtidy.org/content/kb/vpn/mac/saved_locations.png" width = "600"px>
+  <img src="https://cdn.adtidy.org/content/kb/vpn/mac/saved_locations_light.png" width = "600"px>
 </picture>
 </p>
 
